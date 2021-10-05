@@ -1,4 +1,4 @@
-# Sourced from https://github.com/anirbankonar123/CorrosionDetector/blob/master/generate_tfrecord.py
+
 """
 Usage:
   # From tensorflow/models/
